@@ -1,0 +1,69 @@
+# R-specific files
+.Rhistory
+.RData
+.Rapp.history
+.Renviron
+.Rprofile
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+.Rproj.user
+
+# R package source
+.metadata
+.classpath
+.project
+*.tar.gz
+*.zip
+
+# Compiled R objects
+*.o
+*.so
+*.a
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.Thumbs.db
+
+# Output files
+*.pdf
+*.html
+*.docx
+
+# Data files (optional - uncomment if needed)
+# *.csv
+# *.xlsx
+# *.xls
+# *.txt
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Package manager files
+requirements.txt.bak
+package-lock.json.bak
